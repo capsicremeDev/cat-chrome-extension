@@ -1,0 +1,14 @@
+{
+    "name":"Cat",
+    "version":"1.0.0",
+    "description":"Achieve happiness from looking at cats",
+    "manifest_version":3,
+    "author":"Karl Anton Holst Andersson",
+    "icons":{
+        "16": "/Doggo.png"
+    },
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"Cat"
+    }
+}
